@@ -1,0 +1,19 @@
+{
+  "name": "ExampleIssue2100Protractor",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "protractor": "protractor test/protractor.conf.js"
+  },
+  "devDependencies": {
+	"cucumber": "^0.4.8",
+	"protractor-cucumber": "^0.1.4",
+	"grunt": "~0.4.5",
+	"protractor": "~2.0.0",
+	"grunt-protractor-runner": "~2.0.0",
+	"chai": "^2.1.2",
+	"chai-as-promised": "^4.3.0",
+	"load-grunt-tasks": "^1.0.0"
+  },
+  "author": "zesar88@gmail.com"
+}
